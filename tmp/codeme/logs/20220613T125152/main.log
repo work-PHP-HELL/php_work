@@ -1,0 +1,6 @@
+[2022-06-13 12:51:52.725] [main] [info] update#setState idle
+[2022-06-13 12:51:55.865] [main] [info] Starting extension host with pid 22696 (fork() took 15 ms).
+[2022-06-13 12:52:22.729] [main] [info] update#setState checking for updates
+[2022-06-13 12:52:22.977] [main] [info] update#setState idle
+[2022-06-13 12:52:43.120] [main] [info] Waiting for extension host with pid 22696 to exit.
+[2022-06-13 12:52:43.132] [main] [info] Extension host with pid 22696 exited with code: 0, signal: null.

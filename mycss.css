@@ -3,3 +3,13 @@ body{
 	background: black;
 	color:white;
 }
+td{
+	padding: 4px;
+}
+input{
+	border-radius: 5px;
+	background: black;
+	color:green;
+}
+
+
